@@ -6,14 +6,23 @@ workers_dev = true
 
 
 routes = [
-
   { pattern = "afrcloud.biz.id", custom_domain = true },
   { pattern = "support.zoom.us.afrcloud.biz.id", custom_domain = true },
   { pattern = "ava.game.naver.com.afrcloud.biz.id", custom_domain = true },
   { pattern = "graph.instagram.com.afrcloud.biz.id", custom_domain = true },
   { pattern = "df.game.naver.com.afrcloud.biz.id", custom_domain = true },
-  { pattern = "zoomgov.com.afrcloud.biz.id", custom_domain = true }
-  ]
+  { pattern = "quiz.int.vidio.com.afrcloud.biz.id", custom_domain = true },
+  { pattern = "zoomgov.com.afrcloud.biz.id", custom_domain = true },
+  { pattern = "api24-normal-alisg.tiktokv.com.afrcloud.biz.id", custom_domain = true },
+  { pattern = "zaintest.vuclip.com.afrcloud.biz.id", custom_domain = true },
+  { pattern = "help.viu.com.afrcloud.biz.id", custom_domain = true },
+  { pattern = "grabacademyportal.grab.com.afrcloud.biz.id", custom_domain = true },
+  { pattern = "api22-normal-c-alisg.tiktokv.com.afrcloud.biz.id", custom_domain = true },
+  { pattern = "live.iflix.com.afrcloud.biz.id", custom_domain = true },
+  { pattern = "store.linefriends.com.afrcloud.biz.id", custom_domain = true },
+  { pattern = "cache.netflix.com.afrcloud.biz.id", custom_domain = true },
+  { pattern = "customlinks.appsflyer.com.afrcloud.biz.id", custom_domain = true }
+]
 
 [[kv_namespaces]]
 binding = "SIREN"
